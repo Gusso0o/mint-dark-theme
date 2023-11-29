@@ -1,16 +1,6 @@
-# mint-dark-theme README
+# Dark Mint Theme for VS Code
+Experience a refreshing coding environment with the Minty Theme extension for Visual Studio Code. This extension transforms your editor with a soothing mint color palette, providing a visually pleasing and calming backdrop to enhance your coding experience. Say goodbye to dull interfaces and immerse yourself in a vibrant, minty-fresh coding atmosphere.
 
-## Working with Markdown
+![Preview](https://github.com/Gusso0o/dark-mint-theme/blob/main/sample.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+> **ProTip**: You can also download the extension file on the release section
