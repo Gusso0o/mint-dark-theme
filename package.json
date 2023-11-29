@@ -2,14 +2,15 @@
   "name": "dark-mint-theme",
   "displayName": "Dark Mint Theme",
   "description": "A dark theme based on mint color for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "gusso",
   "engines": {
     "vscode": "^1.84.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gusso0o/mint-dark-theme.git"},
+    "url": "https://github.com/Gusso0o/mint-dark-theme.git"
+  },
   "categories": [
     "Themes"
   ],
