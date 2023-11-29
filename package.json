@@ -1,7 +1,7 @@
 {
-  "name": "mint-dark-theme",
-  "displayName": "Mint Dark Theme",
-  "description": "A dark mint-coloured theme for VS Code",
+  "name": "dark-mint-theme",
+  "displayName": "Dark Mint Theme",
+  "description": "A dark theme based on mint color for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "gusso",
   "engines": {
@@ -27,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mint Dark Theme",
+        "label": "Dark Mint Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Mint Dark Theme-color-theme.json"
       }
